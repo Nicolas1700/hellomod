@@ -1,3 +1,3 @@
-module github.com/Nicolas1700/hellomod.git
+module github.com/Nicolas1700/hellomod
 
 go 1.18
